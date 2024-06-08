@@ -52,11 +52,13 @@ export const battle: SimpleTranslationEntries = {
   "runAwayCannotEscape": "도망칠 수 없었다!",
   "escapeVerbSwitch": "교체할",
   "escapeVerbFlee": "도망칠",
-  "notDisabled": "{{pokemonName}}의\n{{moveName}} 사슬묶기가 풀렸다!",
+  "notDisabled": "{{pokemonName}}의\n{{moveName}}[[가]] 풀렸다!",
   "skipItemQuestion": "아이템을 받지 않고 넘어가시겠습니까?",
   "eggHatching": "어라…?",
   "ivScannerUseQuestion": "{{pokemonName}}에게 개체값탐지기를 사용하시겠습니까?",
   "wildPokemonWithAffix": "야생 {{pokemonName}}",
   "foePokemonWithAffix": "상대 {{pokemonName}}",
-  "useMove": "{{pokemonNameWithAffix}}의 {{moveName}}!"
+  "useMove": "{{pokemonNameWithAffix}}의 {{moveName}}!",
+  "drainMessage": "{{pokemonName}}이 체력을\n흡수했다!",
+  "regainHealth": "{{pokemonName}}이 체력을\n회복했다!"
 } as const;

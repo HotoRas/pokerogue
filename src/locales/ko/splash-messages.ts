@@ -32,6 +32,6 @@ export const splashMessages: SimpleTranslationEntries = {
   "alsoTryPokengine": "Pokéngine도 해봐요!",
   "alsoTryEmeraldRogue": "Emerald Rogue도 해봐요!",
   "alsoTryRadicalRed": "Radical Red도 해봐요!",
-  "eeveeExpo": "Eevee Expo!",
-  "ynoproject": "YNOproject!",
+  "eeveeExpo": "이브이 엑스포!",
+  "ynoproject": "저희 프로젝트를 아시는군요!",
 } as const;
